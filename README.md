@@ -16,8 +16,6 @@ Released under AGPL see LICENSE for more information
 
 * importdomain2ip.py: Some demo scripts to import IP intelligence from various locations. YMMV
 
-* load_geoip.py: Script I found on the interwebs to import geoip csv files into postgres.
-
 * importgoogle.py: Imports google safe browsing database (see wiki).  Required APIKEY
 
 * checkfull.py: Given partial match from GSB database request full SHA hash from Google
